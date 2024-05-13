@@ -1,20 +1,20 @@
-# Octocademy Utils Library
+# Octocademy Utils ライブラリ
 
-## Summary
+## 概要
 
-The Octocademy Utils Library is a collection of utility functions designed to assist with common programming tasks, such as validating email addresses, phone numbers, secure URLs, and GitHub URLs.
+Octocademy Utils ライブラリは、メールアドレス、電話番号、セキュアURL、GitHub URLの検証など、一般的なプログラミングタスクを支援するためのユーティリティ関数のコレクションです。
 
-## Key Validation Methods
+## 主な検証メソッド
 
-- **Email Validation**: Checks if an email address is valid. Example: `is_email_valid('test@example.com')`
-- **Phone Number Validation**: Checks if a phone number is valid. Example: `is_phone_valid('1234567890')`
-- **Secure URL Validation**: Checks if a URL is secure (HTTPS). Example: `is_secure_url_valid('https://example.com')`
-- **GitHub URL Validation**: Checks if a URL is a valid address of GitHub.com. Example: `is_github_url_valid('https://github.com/octocademy/utils-library')`
+- **メール検証**: メールアドレスが有効かどうかをチェックします。例: `is_email_valid('test@example.com')`
+- **電話番号検証**: 電話番号が有効かどうかをチェックします。例: `is_phone_valid('1234567890')`
+- **セキュアURL検証**: URLがセキュア（HTTPS）かどうかをチェックします。例: `is_secure_url_valid('https://example.com')`
+- **GitHub URL検証**: URLがGitHub.comの有効なアドレスかどうかをチェックします。例: `is_github_url_valid('https://github.com/octocademy/utils-library')`
 
-## License
+## ライセンス
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+このプロジェクトはMITライセンスの下でライセンスされています - 詳細は[LICENSE](LICENSE)ファイルをご覧ください。
 
-## Contributing
+## 貢献
 
-We welcome contributions to the Octocademy Utils Library! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed instructions on how to contribute, including steps on using GitHub Codespaces and the `.devcontainer/devcontainer.json` to ease the setup process.
+Octocademy Utils ライブラリへの貢献を歓迎します！貢献方法の詳細については、GitHub Codespacesや`.devcontainer/devcontainer.json`を使用してセットアッププロセスを簡素化する手順を含む、[CONTRIBUTING.md](CONTRIBUTING.md)ファイルをご覧ください。

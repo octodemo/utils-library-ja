@@ -13,19 +13,19 @@ secure_url_regex = r'^https:\/\/'
 github_url_regex = r'^https:\/\/github\.com\/[a-zA-Z0-9\-]+\/[a-zA-Z0-9\-]+'
 
 def is_email_valid(email):
-    """Check if the email matches the email regular expression."""
+    """メールがメールの正規表現と一致するかどうかをチェックします。"""
     return bool(re.search(email_regex, email))
 
 def is_phone_valid(phone):
-    """Check if the phone number matches the phone regular expression."""
+    """電話番号が電話番号の正規表現と一致するかどうかをチェックします。"""
     return bool(re.search(phone_regex, phone))
 
 def is_secure_url_valid(url):
-    """Check if the URL is a secure URL."""
+    """URLがセキュアURLかどうかをチェックします。"""
     return bool(re.search(secure_url_regex, url))
 
 def is_github_url_valid(url):
-    """Check if the URL is a valid GitHub repository or subdomain URL."""
+    """URLが有効なGitHubリポジトリまたはサブドメインURLかどうかをチェックします。"""
     return bool(re.search(github_url_regex, url))
 
 # Test all the regular expressions
