@@ -1,29 +1,29 @@
-# Contributing to Octocademy Utils Library
+# Octocademy Utils ライブラリへの貢献
 
-Thank you for your interest in contributing to the Octocademy Utils Library! We value your contributions and want to make the process as easy as possible. Here are the steps to get you started:
+Octocademy Utils ライブラリへの貢献に興味を持っていただきありがとうございます！私たちはあなたの貢献を価値あるものと考え、プロセスをできるだけ簡単にしたいと考えています。以下のステップで始めましょう：
 
-## Setting Up Your Environment
+## 環境設定
 
-1. **Fork the Repository**: Start by forking the repository to your GitHub account.
-2. **Clone Your Fork**: Clone your fork to your local machine to start making changes.
-3. **Using GitHub Codespaces**: For a seamless setup, we recommend using GitHub Codespaces. It allows you to code directly in your browser without having to install anything on your local machine.
-   - Navigate to your fork on GitHub and click the "Code" button, then select "Open with Codespaces".
-   - GitHub Codespaces automatically configures your development environment based on the `.devcontainer/devcontainer.json` file in the repository. This ensures that you have all the necessary tools and extensions installed.
+1. **リポジトリのフォーク**: リポジトリをあなたのGitHubアカウントにフォークしてください。
+2. **フォークをクローン**: フォークをローカルマシンにクローンして、変更を開始します。
+3. **GitHub Codespacesの使用**: シームレスなセットアップのために、GitHub Codespacesの使用をお勧めします。これにより、ローカルマシンに何もインストールせずにブラウザで直接コーディングできます。
+   - GitHubであなたのフォークに移動し、「Code」ボタンをクリックしてから「Open with Codespaces」を選択します。
+   - GitHub Codespacesは、リポジトリ内の`.devcontainer/devcontainer.json`ファイルに基づいて開発環境を自動的に設定します。これにより、必要なツールや拡張機能がすべてインストールされます。
 
-## Making Changes
+## 変更の作成
 
-1. **Create a New Branch**: Always create a new branch for your changes. This keeps the main branch clean and simplifies the review process.
-2. **Make Your Changes**: Implement your changes, additions, or fixes. Be sure to follow the coding standards and guidelines of the project.
-3. **Test Your Changes**: Run the existing tests and add new ones if necessary. Ensure that all tests pass.
+1. **新しいブランチの作成**: 変更のためには常に新しいブランチを作成してください。これにより、mainブランチがクリーンに保たれ、レビュープロセスが簡素化されます。
+2. **変更の実装**: 変更、追加、または修正を実装してください。プロジェクトのコーディング標準とガイドラインに従ってください。
+3. **変更のテスト**: 既存のテストを実行し、必要に応じて新しいテストを追加してください。すべてのテストが通ることを確認してください。
 
-## Submitting Your Changes
+## 変更の提出
 
-1. **Commit Your Changes**: Commit your changes with a clear and descriptive commit message.
-2. **Push Your Changes**: Push your changes to your fork on GitHub.
-3. **Open a Pull Request**: From your fork, open a pull request to the main repository. Provide a clear description of the changes and any other relevant information.
+1. **変更のコミット**: 明確で説明的なコミットメッセージで変更をコミットしてください。
+2. **変更のプッシュ**: GitHub上のフォークに変更をプッシュしてください。
+3. **プルリクエストのオープン**: フォークからメインリポジトリにプルリクエストを開いてください。変更の明確な説明とその他の関連情報を提供してください。
 
-## After Your Pull Request is Merged
+## プルリクエストがマージされた後
 
-Once your pull request is merged, your changes will be part of the Octocademy Utils Library. We encourage you to continue contributing and becoming an active member of our community.
+プルリクエストがマージされると、あなたの変更はOctocademy Utils ライブラリの一部となります。私たちはあなたに引き続き貢献し、私たちのコミュニティの活動的なメンバーになることを奨励します。
 
-Thank you for contributing to the Octocademy Utils Library!
+Octocademy Utils ライブラリへの貢献に感謝します！
